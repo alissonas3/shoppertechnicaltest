@@ -1,0 +1,38 @@
+.App{
+    height: 100vh;
+    padding: 0px 100px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: space-around;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.produtos {
+    display: flex;
+}
+
+
+  button {
+    margin: 10px;
+    height: 50px;
+    width: 150px;
+
+  }
+  
+  /* .tabela th,
+  .tabela td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .tabela th {
+    background-color: #f2f2f2;
+  }
+  
+  .tabela tr:nth-child(even) {
+    background-color: #f2f2f2;
+  } */
